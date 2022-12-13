@@ -54,7 +54,7 @@ nav {
   position: -webkit-sticky;
   top: 0;
   flex-wrap: wrap;
-  z-index: 100;
+  z-index: 9999;
 }
 
 nav ul {
